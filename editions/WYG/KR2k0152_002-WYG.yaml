@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0152/WYG/v1/juan/2
+seq: 2
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0152_WYG_002-1a, image: WYG0594/WYG0594-0869a.png}
+body:
+  text: 海國聞見錄卷下浙江提督陳倫炯撰海國聞見録巻下
+  hash: sha256:e452eacf3d4502eb80f28e3ff6d99417d045f15e17a038f4bf7d3d930643c4f1
+metadata:
+  title: 海國聞見錄
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:47:40.538243'
+  juan_title: 卷下
+  source:
+    repository: kanripo
+    path: KR2k0152/KR2k0152_002.txt
+hash: sha256:9b98c4008518d7d91a2741d639bfc5523c0994fcca5048d626a47aa5af0dd368
