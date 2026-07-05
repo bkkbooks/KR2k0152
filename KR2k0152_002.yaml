@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2k0152_WYG_002-1a, image: WYG0594/WYG0594-0869a.png}
 body:
-  text: 海國聞見録卷下浙江提督陳倫炯撰海國聞見録卷下
-  hash: sha256:99d0e5fe6aebb77805f4e9da9a5a62cf9a44bc2d9a1c0b4105cd5e80fd38ff89
+  text: 海國聞見錄卷下浙江提督陳倫炯撰海國聞見録巻下
+  hash: sha256:e452eacf3d4502eb80f28e3ff6d99417d045f15e17a038f4bf7d3d930643c4f1
 metadata:
   title: 海國聞見錄
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2k0152/KR2k0152_002.txt
-hash: sha256:8f65f9f84ab47fdb44332693fc2eb9cc6ff6bb87e20e3734d6f46aafc1442726
+hash: sha256:9623281d8fb2bf5ee7ed9b6ecea2c47b4aa958996fe5b45cc57d0c0f191d55d9
